@@ -1,11 +1,6 @@
 import json
 
-with open('data.json', encoding='utf-8') as inputFile:
-    data = json.load(inputFile)
-
-sourceTable = []
-
-for project in data["data"]["projectPage"]:
+def createTableRow(project):
     row = {}
     row["projectID"] = project["id"]
     row["projectName"] = project["name"]
@@ -18,10 +13,23 @@ for project in data["data"]["projectPage"]:
 
     row["milestonesCount"] = len(project['milestones'])
 
-    row["teamID"] = project["team"]["id"]
-    row["teamName"] = project["team"]["name"]
+    row["groupID"] = project["group"]["id"]
+    row["groupName"] = project["group"]["name"]
+    
+    return row
 
+
+with open('data.json', encoding='utf-8') as inputFile:
+    data = json.load(inputFile)
+
+
+sourceTable = []
+
+
+for project in data["data"]["projectPage"]:
+    row = createTableRow(project)
     sourceTable.append(row)
 
-with open('result.json',"w", encoding='utf-8') as outputFile:
+
+with open('result.json', "w", encoding='utf-8') as outputFile:
     json.dump(sourceTable, outputFile)
