@@ -1,0 +1,122 @@
+{
+    "data": {
+      "projectPage": [
+        {
+          "id": "82fe727b-3b44-4851-ac7f-0b9a5e68b9b3",
+          "name": "Solární energetický systém",
+          "startdate": "2024-03-15T10:00:00",
+          "enddate": "2026-08-20T10:00:00",
+          "valid": true,
+          "projectType": {
+            "id": "bc918233-9f8d-4a70-bf51-12db2043b7e4",
+            "name": "Technologická agentura"
+          },
+          "milestones": [
+            {
+              "id": "3eeefe2f-2b78-46d3-b8b5-f0f730fcd12a"
+            },
+            {
+              "id": "e3b5067b-1c68-451a-9981-0971a19a8b6a"
+            },
+            {
+              "id": "ad4067b5-96d5-47f9-8d77-2bce2d592bac"
+            }
+          ],
+          "group": {
+            "id": "1c4bfc06-a4b5-11ed-bdc3-0242ac120002",
+            "name": "Tech Group"
+          }
+        },
+        {
+          "id": "55f83e8d-2763-498b-8380-33a864bf2b1b",
+          "name": "Vývoj supravodičů",
+          "startdate": "2024-01-01T09:00:00",
+          "enddate": "2027-01-01T09:00:00",
+          "valid": true,
+          "projectType": {
+            "id": "61d8e3f8-7430-45ea-b245-ab0dc9e33000",
+            "name": "EU Horizont 2020"
+          },
+          "milestones": [
+            {
+              "id": "b4ec521a-07e4-4df1-a632-7fdaf09795d4"
+            }
+          ],
+          "group": {
+            "id": "2e2dcd99-a4b2-11ed-b9df-0242ac130003",
+            "name": "Physics Innovations"
+          }
+        },
+        {
+          "id": "15fe36a2-34f1-4b89-b0ae-34f7195b9b9b",
+          "name": "Inteligentní IoT sítě",
+          "startdate": "2023-05-20T08:30:00",
+          "enddate": "2025-11-15T08:30:00",
+          "valid": true,
+          "projectType": {
+            "id": "f8e4f71b-758b-4123-9197-d8d5c0f02b5b",
+            "name": "Výzkumný fond"
+          },
+          "milestones": [
+            {
+              "id": "9984ef5c-2915-4ef2-b1e8-e0f24c9112f1"
+            },
+            {
+              "id": "22ee423d-3f59-4ec7-9bd0-442c54c5b8df"
+            }
+          ],
+          "group": {
+            "id": "34adab88-a4b5-11ed-bdc3-0242ac130004",
+            "name": "Smart Tech"
+          }
+        },
+        {
+          "id": "3c4f932b-efd1-4061-ae9b-30acdb950b37",
+          "name": "Robotická chirurgie",
+          "startdate": "2023-12-01T12:00:00",
+          "enddate": "2026-06-01T12:00:00",
+          "valid": true,
+          "projectType": {
+            "id": "5eac2655-df8b-477b-9d22-ed8ee1b1a607",
+            "name": "Zdravotnický výzkum"
+          },
+          "milestones": [
+            {
+              "id": "83aefe99-c613-4dbf-ba7a-df157a42677e"
+            }
+          ],
+          "group": {
+            "id": "54abef76-a4a2-11ed-b9df-0242ac120005",
+            "name": "MediTech Innovators"
+          }
+        },
+        {
+          "id": "a7ef82bb-5927-4619-a8f2-b9a5d6e5b8b4",
+          "name": "Ochranářský výzkum biodiverzity",
+          "startdate": "2024-02-15T13:45:00",
+          "enddate": "2028-08-20T13:45:00",
+          "valid": true,
+          "projectType": {
+            "id": "b5195e42-9f8d-4a70-bf51-12db2043b7e7",
+            "name": "Environmentální granty"
+          },
+          "milestones": [
+            {
+              "id": "1feefe2f-3c78-46d3-b8b5-f0f730fcd34a"
+            },
+            {
+              "id": "2e35067b-2c68-451a-9981-0971a19a8b6b"
+            },
+            {
+              "id": "3d4067b5-96d5-47f9-8d77-2bce2d592bac"
+            }
+          ],
+          "group": {
+            "id": "1c4bfc06-a4b5-11ed-bdc3-0242ac130006",
+            "name": "Eco Solutions"
+          }
+        }
+      ]
+    }
+  }
+  
