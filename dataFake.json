@@ -1,122 +1,422 @@
 {
     "data": {
-      "projectPage": [
-        {
-          "id": "82fe727b-3b44-4851-ac7f-0b9a5e68b9b3",
-          "name": "Solární energetický systém",
-          "startdate": "2024-03-15T10:00:00",
-          "enddate": "2026-08-20T10:00:00",
-          "valid": true,
-          "projectType": {
-            "id": "bc918233-9f8d-4a70-bf51-12db2043b7e4",
-            "name": "Technologická agentura"
-          },
-          "milestones": [
+        "projectPage": [
             {
-              "id": "3eeefe2f-2b78-46d3-b8b5-f0f730fcd12a"
+                "id": "43dd2ff1-5c17-42a5-ba36-8b30e2a243bb",
+                "name": "Nukle\u00e1rn\u00ed reaktor pro budovy",
+                "startdate": "2023-01-01T17:27:12",
+                "enddate": "2025-12-31T17:27:12",
+                "valid": false,
+                "projectType": {
+                    "id": "a825d8e1-2e60-4884-afdb-25642db581d8",
+                    "name": "GA\u010cR"
+                },
+                "milestones": [
+                    {
+                        "id": "d7266936-17c1-4810-88d2-079ebb864d2e"
+                    },
+                    {
+                        "id": "53633106-3a84-4c2f-8f9f-7ec359ba8584"
+                    },
+                    {
+                        "id": "94e155fc-175f-4ee9-8f34-f736677bb2f4"
+                    },
+                    {
+                        "id": "fefd422b-197b-4d9c-b047-60b0ea6c03ea"
+                    },
+                    {
+                        "id": "80a798f1-ee29-4c7e-8b28-1660f2e9234a"
+                    }
+                ],
+                "group": {
+                    "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
+                    "name": "Uni"
+                }
             },
             {
-              "id": "e3b5067b-1c68-451a-9981-0971a19a8b6a"
+                "id": "22586df2-2cf0-4549-ae27-5df7800a2b0b",
+                "name": "V\u011btrn\u00e1 turb\u00edna pro m\u011bsta",
+                "startdate": "2023-05-21T08:38:52.038899",
+                "enddate": "2026-05-20T08:38:52.038915",
+                "valid": false,
+                "projectType": {
+                    "id": "a825d8e1-2e60-4884-afdb-25642db581d8",
+                    "name": "GA\u010cR"
+                },
+                "milestones": [
+                    {
+                        "id": "38a80edb-0351-49ca-9bbc-226c703cc060"
+                    },
+                    {
+                        "id": "33eacf75-a00e-496a-a10f-d5f7276d0af6"
+                    },
+                    {
+                        "id": "2aaadc75-301d-4d15-9e05-5556f92839cf"
+                    },
+                    {
+                        "id": "8f89a27e-df23-4f86-a88c-7fa387da20ca"
+                    }
+                ],
+                "group": {
+                    "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
+                    "name": "Uni"
+                }
             },
             {
-              "id": "ad4067b5-96d5-47f9-8d77-2bce2d592bac"
-            }
-          ],
-          "group": {
-            "id": "1c4bfc06-a4b5-11ed-bdc3-0242ac120002",
-            "name": "Tech Group"
-          }
-        },
-        {
-          "id": "55f83e8d-2763-498b-8380-33a864bf2b1b",
-          "name": "Vývoj supravodičů",
-          "startdate": "2024-01-01T09:00:00",
-          "enddate": "2027-01-01T09:00:00",
-          "valid": true,
-          "projectType": {
-            "id": "61d8e3f8-7430-45ea-b245-ab0dc9e33000",
-            "name": "EU Horizont 2020"
-          },
-          "milestones": [
-            {
-              "id": "b4ec521a-07e4-4df1-a632-7fdaf09795d4"
-            }
-          ],
-          "group": {
-            "id": "2e2dcd99-a4b2-11ed-b9df-0242ac130003",
-            "name": "Physics Innovations"
-          }
-        },
-        {
-          "id": "15fe36a2-34f1-4b89-b0ae-34f7195b9b9b",
-          "name": "Inteligentní IoT sítě",
-          "startdate": "2023-05-20T08:30:00",
-          "enddate": "2025-11-15T08:30:00",
-          "valid": true,
-          "projectType": {
-            "id": "f8e4f71b-758b-4123-9197-d8d5c0f02b5b",
-            "name": "Výzkumný fond"
-          },
-          "milestones": [
-            {
-              "id": "9984ef5c-2915-4ef2-b1e8-e0f24c9112f1"
+                "id": "d765d9ca-0eb0-4c9b-977b-52b59d18a6a1",
+                "name": "Inteligentn\u00ed osv\u011btlen\u00ed",
+                "startdate": "2023-11-02T08:38:52.038979",
+                "enddate": "2025-10-02T08:38:52.038982",
+                "valid": true,
+                "projectType": {
+                    "id": "c009fed2-6c5-4668-bb60-949dd1b6b3ed",
+                    "name": "TA\u010cR"
+                },
+                "milestones": [
+                    {
+                        "id": "35d06c00-41db-42d0-9b30-f5c22bf2fec1"
+                    },
+                    {
+                        "id": "fac57d9d-3c5c-4436-ac86-b456975b7b36"
+                    },
+                    {
+                        "id": "1dfe2804-b4c4-4bc8-8fde-d40c4cdd8ae3"
+                    }
+                ],
+                "group": {
+                    "id": "3f7dcd22-a4a2-11ed-b9df-0242ac120004",
+                    "name": "Tech"
+                }
             },
             {
-              "id": "22ee423d-3f59-4ec7-9bd0-442c54c5b8df"
-            }
-          ],
-          "group": {
-            "id": "34adab88-a4b5-11ed-bdc3-0242ac130004",
-            "name": "Smart Tech"
-          }
-        },
-        {
-          "id": "3c4f932b-efd1-4061-ae9b-30acdb950b37",
-          "name": "Robotická chirurgie",
-          "startdate": "2023-12-01T12:00:00",
-          "enddate": "2026-06-01T12:00:00",
-          "valid": true,
-          "projectType": {
-            "id": "5eac2655-df8b-477b-9d22-ed8ee1b1a607",
-            "name": "Zdravotnický výzkum"
-          },
-          "milestones": [
-            {
-              "id": "83aefe99-c613-4dbf-ba7a-df157a42677e"
-            }
-          ],
-          "group": {
-            "id": "54abef76-a4a2-11ed-b9df-0242ac120005",
-            "name": "MediTech Innovators"
-          }
-        },
-        {
-          "id": "a7ef82bb-5927-4619-a8f2-b9a5d6e5b8b4",
-          "name": "Ochranářský výzkum biodiverzity",
-          "startdate": "2024-02-15T13:45:00",
-          "enddate": "2028-08-20T13:45:00",
-          "valid": true,
-          "projectType": {
-            "id": "b5195e42-9f8d-4a70-bf51-12db2043b7e7",
-            "name": "Environmentální granty"
-          },
-          "milestones": [
-            {
-              "id": "1feefe2f-3c78-46d3-b8b5-f0f730fcd34a"
+                "id": "868a08ba-1dae-467d-b1a3-24503d5d497d",
+                "name": "Ekologick\u00e9 baterie",
+                "startdate": "2024-02-10T08:38:52.039022",
+                "enddate": "2026-07-29T08:38:52.039027",
+                "valid": true,
+                "projectType": {
+                    "id": "a7b8b28f-37f4-422f-84bd-2ab9f31a2f50",
+                    "name": "EUREKA"
+                },
+                "milestones": [
+                    {
+                        "id": "817a7d3a-ff83-4f3c-ab68-ffad9e32f4db"
+                    },
+                    {
+                        "id": "e7f2fd79-e6e2-4739-99c0-3386975754c7"
+                    },
+                    {
+                        "id": "43d85c32-283a-4493-aee1-882b6bdf0c01"
+                    },
+                    {
+                        "id": "7105d3e4-a081-4276-b717-042d2db803c1"
+                    },
+                    {
+                        "id": "6c85ec59-76df-4ac4-9946-2746dd593488"
+                    },
+                    {
+                        "id": "265a2d54-7ba0-44db-ace3-eafb37a28689"
+                    }
+                ],
+                "group": {
+                    "id": "3e9507a9-e9aa-4fcb-b273-4fcf4ea6e16d",
+                    "name": "Green"
+                }
             },
             {
-              "id": "2e35067b-2c68-451a-9981-0971a19a8b6b"
+                "id": "35d19327-c525-430b-a0e0-69186f682dde",
+                "name": "Vod\u00edkov\u00e9 palivov\u00e9 \u010dl\u00e1nky",
+                "startdate": "2024-03-31T08:38:52.039066",
+                "enddate": "2026-11-06T08:38:52.039069",
+                "valid": true,
+                "projectType": {
+                    "id": "8396657f-934a-472a-b3e2-66535313426d",
+                    "name": "H2020"
+                },
+                "milestones": [
+                    {
+                        "id": "c6cbd014-2dc9-4dd8-9bdf-1a35a38e8d3f"
+                    },
+                    {
+                        "id": "8a52a08c-f078-4382-b367-dbb455ed5698"
+                    },
+                    {
+                        "id": "c019f0ec-c2c9-4efc-bb57-df2e707e9737"
+                    },
+                    {
+                        "id": "22a46d5f-ee5e-41ea-bff0-685d6b896758"
+                    }
+                ],
+                "group": {
+                    "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
+                    "name": "Uni"
+                }
             },
             {
-              "id": "3d4067b5-96d5-47f9-8d77-2bce2d592bac"
+                "id": "0e630f23-c9a0-40d2-a49f-5a45f928fdbb",
+                "name": "Recyklovateln\u00e9 plasty",
+                "startdate": "2023-12-22T08:38:52.039097",
+                "enddate": "2027-02-14T08:38:52.039099",
+                "valid": true,
+                "projectType": {
+                    "id": "3701b0b3-8f71-4387-ac4e-1659fdd86cf6",
+                    "name": "INTERREG"
+                },
+                "milestones": [
+                    {
+                        "id": "07f0fd12-a95e-48ea-a7e3-16d4135a6aad"
+                    },
+                    {
+                        "id": "b21112f9-8647-45be-9ff2-1c1e4b1eb866"
+                    },
+                    {
+                        "id": "12c4b2e6-1086-476c-92aa-1911d6ab8e4b"
+                    }
+                ],
+                "group": {
+                    "id": "548a647d-145e-4db3-844f-724030c414da",
+                    "name": "Eco"
+                }
+            },
+            {
+                "id": "9821313c-1e14-495a-a6ce-c3b10d258aa9",
+                "name": "Biodegradabiln\u00ed materi\u00e1ly",
+                "startdate": "2024-01-21T08:40:36.609988",
+                "enddate": "2026-03-01T08:40:36.610006",
+                "valid": true,
+                "projectType": {
+                    "id": "a825d8e1-2e60-4884-afdb-25642db581d8",
+                    "name": "GA\u010cR"
+                },
+                "milestones": [
+                    {
+                        "id": "11e6216f-2d5b-433d-bc8f-de773af4a6bc"
+                    },
+                    {
+                        "id": "c1dd67fb-aeeb-4b28-a709-133ef9962907"
+                    }
+                ],
+                "group": {
+                    "id": "548a647d-145e-4db3-844f-724030c414da",
+                    "name": "Eco"
+                }
+            },
+            {
+                "id": "754b19b6-e265-419c-a17d-97e46245dfca",
+                "name": "Smart Grid Technology",
+                "startdate": "2024-02-20T08:40:36.610081",
+                "enddate": "2026-04-20T08:40:36.610086",
+                "valid": true,
+                "projectType": {
+                    "id": "c009fed2-6c5-4668-bb60-949dd1b6b3ed",
+                    "name": "TA\u010cR"
+                },
+                "milestones": [
+                    {
+                        "id": "ed4647e2-c3a4-4bba-ade9-ce449ea9a4a6"
+                    },
+                    {
+                        "id": "8c50dc02-a2a5-4812-a85d-3ae3740d5575"
+                    }
+                ],
+                "group": {
+                    "id": "3f7dcd22-a4a2-11ed-b9df-0242ac120004",
+                    "name": "Tech"
+                }
+            },
+            {
+                "id": "c3b9a8ea-335f-4873-8fef-d598881275cb",
+                "name": "Geoterm\u00e1ln\u00ed energie",
+                "startdate": "2023-07-25T08:40:36.610124",
+                "enddate": "2027-02-14T08:40:36.610127",
+                "valid": true,
+                "projectType": {
+                    "id": "a825d8e1-2e60-4884-afdb-25642db581d8",
+                    "name": "GA\u010cR"
+                },
+                "milestones": [
+                    {
+                        "id": "2c5bdfed-d3fa-444e-b6c1-a98fb82c658f"
+                    },
+                    {
+                        "id": "f592ca27-bc4b-4675-a211-73858c2ee7d3"
+                    }
+                ],
+                "group": {
+                    "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
+                    "name": "Uni"
+                }
+            },
+            {
+                "id": "aa55d7bf-4717-453e-9b96-acdc68d8e6f2",
+                "name": "Autonomn\u00ed vozidla",
+                "startdate": "2023-11-22T08:40:36.610155",
+                "enddate": "2026-07-29T08:40:36.610160",
+                "valid": true,
+                "projectType": {
+                    "id": "c009fed2-6c5-4668-bb60-949dd1b6b3ed",
+                    "name": "TA\u010cR"
+                },
+                "milestones": [
+                    {
+                        "id": "1a9c068a-781d-4b64-b784-9224477056d2"
+                    },
+                    {
+                        "id": "9aa3fa9b-657a-4a4b-9979-4185934081ea"
+                    }
+                ],
+                "group": {
+                    "id": "3e9507a9-e9aa-4fcb-b273-4fcf4ea6e16d",
+                    "name": "Green"
+                }
+            },
+            {
+                "id": "99cf863e-3073-416c-a2c0-0b12b3c56460",
+                "name": "Robotick\u00e1 chirurgie",
+                "startdate": "2024-03-21T08:40:36.610201",
+                "enddate": "2026-01-10T08:40:36.610206",
+                "valid": true,
+                "projectType": {
+                    "id": "a825d8e1-2e60-4884-afdb-25642db581d8",
+                    "name": "GA\u010cR"
+                },
+                "milestones": [
+                    {
+                        "id": "36653f68-3115-48bf-9b04-5c063583f1fd"
+                    },
+                    {
+                        "id": "63ba2db8-cf13-438f-b988-e6aeef94e699"
+                    }
+                ],
+                "group": {
+                    "id": "533da1b1-fed8-4a0e-b967-9f6d718f3854",
+                    "name": "HealthTech"
+                }
+            },
+            {
+                "id": "7ba310fc-8210-43d5-bb17-1bd1a4b0fadf",
+                "name": "Sol\u00e1rn\u00ed panely nov\u00e9 generace",
+                "startdate": "2024-04-01T08:40:36.610301",
+                "enddate": "2027-04-01T08:40:36.610305",
+                "valid": true,
+                "projectType": {
+                    "id": "478059f2-154c-4d65-9597-63c8fbef294a",
+                    "name": "FP7"
+                },
+                "milestones": [
+                    {
+                        "id": "57b17888-e90f-4a7c-90a4-8de77c264a15"
+                    },
+                    {
+                        "id": "20f8a16c-49c5-42f9-866a-7c7fff42b7d7"
+                    },
+                    {
+                        "id": "3816ee6e-1914-46cf-bd8d-f8b546051a8f"
+                    }
+                ],
+                "group": {
+                    "id": "652936f0-cae0-47f2-b6f0-83c10bd0a363",
+                    "name": "Energy"
+                }
+            },
+            {
+                "id": "767d221c-0c2c-4415-91d1-e2d74c8c630d",
+                "name": "Vodn\u00ed hospod\u00e1\u0159stv\u00ed",
+                "startdate": "2024-05-01T08:40:36.610401",
+                "enddate": "2026-05-01T08:40:36.610405",
+                "valid": true,
+                "projectType": {
+                    "id": "01ed84df-94be-4f40-b64c-ccc4e11c6fef",
+                    "name": "COST"
+                },
+                "milestones": [
+                    {
+                        "id": "95f9a8a5-9483-46d7-9c67-b99ca221efcd"
+                    },
+                    {
+                        "id": "dff59cbd-71d9-46e8-9a67-165f4efe292b"
+                    },
+                    {
+                        "id": "0385267c-a6bf-4756-b4d9-82c61e6fc9fc"
+                    },
+                    {
+                        "id": "7d703c83-4128-4eb9-8828-efa37cff080e"
+                    }
+                ],
+                "group": {
+                    "id": "3ba7341a-f190-4aeb-a90f-1d727b46ccdf",
+                    "name": "BioTech"
+                }
+            },
+            {
+                "id": "9d64d142-fcc9-4f5c-924b-90ae61a6daee",
+                "name": "Geneticky modifikovan\u00e9 plodiny",
+                "startdate": "2024-06-01T08:40:36.610501",
+                "enddate": "2028-06-01T08:40:36.610505",
+                "valid": true,
+                "projectType": {
+                    "id": "170af1bb-05bb-4f39-a8bf-6861b68ec1bd",
+                    "name": "LIFE"
+                },
+                "milestones": [
+                    {
+                        "id": "ac93678e-f40e-4010-bf3f-406712a45067"
+                    },
+                    {
+                        "id": "4e56dead-aa85-40bd-8c14-1c5a50f443f1"
+                    }
+                ],
+                "group": {
+                    "id": "024201e2-7246-4eb0-b140-0ba4bfd2a2c2",
+                    "name": "Materials"
+                }
+            },
+            {
+                "id": "69946f41-1f68-4d97-b86b-4a91c94b911e",
+                "name": "Nanotechnologie v medic\u00edn\u011b",
+                "startdate": "2024-07-01T08:40:36.610601",
+                "enddate": "2029-07-01T08:40:36.610605",
+                "valid": true,
+                "projectType": {
+                    "id": "478059f2-154c-4d65-9597-63c8fbef294a",
+                    "name": "FP7"
+                },
+                "milestones": [
+                    {
+                        "id": "18cba6b1-128b-46d0-85b0-cf4fd09c0fad"
+                    }
+                ],
+                "group": {
+                    "id": "3ba7341a-f190-4aeb-a90f-1d727b46ccdf",
+                    "name": "BioTech"
+                }
+            },
+            {
+                "id": "dcabb9df-104b-47c3-a4f3-9f514489a427",
+                "name": "Chytr\u00e9 m\u011bsto",
+                "startdate": "2024-08-01T08:40:36.610701",
+                "enddate": "2027-08-01T08:40:36.610705",
+                "valid": false,
+                "projectType": {
+                    "id": "01ed84df-94be-4f40-b64c-ccc4e11c6fef",
+                    "name": "COST"
+                },
+                "milestones": [
+                    {
+                        "id": "364c5bfe-0b30-4d47-983f-732740629417"
+                    },
+                    {
+                        "id": "d34158d7-ccee-4ae2-85e5-a37471f094ee"
+                    },
+                    {
+                        "id": "56a0faae-33e0-48f6-ac0c-643c3d56bfa1"
+                    }
+                ],
+                "group": {
+                    "id": "652936f0-cae0-47f2-b6f0-83c10bd0a363",
+                    "name": "Energy"
+                }
             }
-          ],
-          "group": {
-            "id": "1c4bfc06-a4b5-11ed-bdc3-0242ac130006",
-            "name": "Eco Solutions"
-          }
-        }
-      ]
+        ]
     }
-  }
-  
+}

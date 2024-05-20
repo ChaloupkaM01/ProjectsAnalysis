@@ -19,7 +19,7 @@ def createTableRow(project):
     return row
 
 
-with open('data.json', encoding='utf-8') as inputFile:
+with open('dataFake.json', encoding='utf-8') as inputFile:
     data = json.load(inputFile)
 
 
@@ -31,5 +31,5 @@ for project in data["data"]["projectPage"]:
     sourceTable.append(row)
 
 
-with open('result.json', "w", encoding='utf-8') as outputFile:
+with open('resultFake.json', "w", encoding='utf-8') as outputFile:
     json.dump(sourceTable, outputFile)
