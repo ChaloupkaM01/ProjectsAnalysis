@@ -1,5 +1,6 @@
 import json
 
+
 def createTableRow(project):
     row = {}
     row["projectID"] = project["id"]
