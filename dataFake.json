@@ -2,75 +2,14 @@
     "data": {
         "projectPage": [
             {
-                "id": "43dd2ff1-5c17-42a5-ba36-8b30e2a243bb",
-                "name": "Nukle\u00e1rn\u00ed reaktor pro budovy",
-                "startdate": "2023-01-01T17:27:12",
-                "enddate": "2025-12-31T17:27:12",
-                "valid": false,
-                "projectType": {
-                    "id": "a825d8e1-2e60-4884-afdb-25642db581d8",
-                    "name": "GA\u010cR"
-                },
-                "milestones": [
-                    {
-                        "id": "d7266936-17c1-4810-88d2-079ebb864d2e"
-                    },
-                    {
-                        "id": "53633106-3a84-4c2f-8f9f-7ec359ba8584"
-                    },
-                    {
-                        "id": "94e155fc-175f-4ee9-8f34-f736677bb2f4"
-                    },
-                    {
-                        "id": "fefd422b-197b-4d9c-b047-60b0ea6c03ea"
-                    },
-                    {
-                        "id": "80a798f1-ee29-4c7e-8b28-1660f2e9234a"
-                    }
-                ],
-                "group": {
-                    "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
-                    "name": "Uni"
-                }
-            },
-            {
-                "id": "22586df2-2cf0-4549-ae27-5df7800a2b0b",
-                "name": "V\u011btrn\u00e1 turb\u00edna pro m\u011bsta",
-                "startdate": "2023-05-21T08:38:52.038899",
-                "enddate": "2026-05-20T08:38:52.038915",
-                "valid": false,
-                "projectType": {
-                    "id": "a825d8e1-2e60-4884-afdb-25642db581d8",
-                    "name": "GA\u010cR"
-                },
-                "milestones": [
-                    {
-                        "id": "38a80edb-0351-49ca-9bbc-226c703cc060"
-                    },
-                    {
-                        "id": "33eacf75-a00e-496a-a10f-d5f7276d0af6"
-                    },
-                    {
-                        "id": "2aaadc75-301d-4d15-9e05-5556f92839cf"
-                    },
-                    {
-                        "id": "8f89a27e-df23-4f86-a88c-7fa387da20ca"
-                    }
-                ],
-                "group": {
-                    "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
-                    "name": "Uni"
-                }
-            },
-            {
                 "id": "d765d9ca-0eb0-4c9b-977b-52b59d18a6a1",
-                "name": "Inteligentn\u00ed osv\u011btlen\u00ed",
+                "name": "Inteligentní osvětlení",
                 "startdate": "2023-11-02T08:38:52.038979",
                 "enddate": "2025-10-02T08:38:52.038982",
                 "valid": true,
                 "projectType": {
                     "id": "c009fed2-6c5-4668-bb60-949dd1b6b3ed",
-                    "name": "TA\u010cR"
+                    "name": "TAČR"
                 },
                 "milestones": [
                     {
@@ -90,7 +29,7 @@
             },
             {
                 "id": "868a08ba-1dae-467d-b1a3-24503d5d497d",
-                "name": "Ekologick\u00e9 baterie",
+                "name": "Ekologické baterie",
                 "startdate": "2024-02-10T08:38:52.039022",
                 "enddate": "2026-07-29T08:38:52.039027",
                 "valid": true,
@@ -125,7 +64,7 @@
             },
             {
                 "id": "35d19327-c525-430b-a0e0-69186f682dde",
-                "name": "Vod\u00edkov\u00e9 palivov\u00e9 \u010dl\u00e1nky",
+                "name": "Vodíkové palivové články",
                 "startdate": "2024-03-31T08:38:52.039066",
                 "enddate": "2026-11-06T08:38:52.039069",
                 "valid": true,
@@ -154,7 +93,7 @@
             },
             {
                 "id": "0e630f23-c9a0-40d2-a49f-5a45f928fdbb",
-                "name": "Recyklovateln\u00e9 plasty",
+                "name": "Recyklovatelné plasty",
                 "startdate": "2023-12-22T08:38:52.039097",
                 "enddate": "2027-02-14T08:38:52.039099",
                 "valid": true,
@@ -180,13 +119,13 @@
             },
             {
                 "id": "9821313c-1e14-495a-a6ce-c3b10d258aa9",
-                "name": "Biodegradabiln\u00ed materi\u00e1ly",
+                "name": "Biodegradabilní materiály",
                 "startdate": "2024-01-21T08:40:36.609988",
                 "enddate": "2026-03-01T08:40:36.610006",
                 "valid": true,
                 "projectType": {
                     "id": "a825d8e1-2e60-4884-afdb-25642db581d8",
-                    "name": "GA\u010cR"
+                    "name": "GAČR"
                 },
                 "milestones": [
                     {
@@ -209,7 +148,7 @@
                 "valid": true,
                 "projectType": {
                     "id": "c009fed2-6c5-4668-bb60-949dd1b6b3ed",
-                    "name": "TA\u010cR"
+                    "name": "TAČR"
                 },
                 "milestones": [
                     {
@@ -226,13 +165,13 @@
             },
             {
                 "id": "c3b9a8ea-335f-4873-8fef-d598881275cb",
-                "name": "Geoterm\u00e1ln\u00ed energie",
+                "name": "Geotermální energie",
                 "startdate": "2023-07-25T08:40:36.610124",
                 "enddate": "2027-02-14T08:40:36.610127",
                 "valid": true,
                 "projectType": {
                     "id": "a825d8e1-2e60-4884-afdb-25642db581d8",
-                    "name": "GA\u010cR"
+                    "name": "GAČR"
                 },
                 "milestones": [
                     {
@@ -249,13 +188,13 @@
             },
             {
                 "id": "aa55d7bf-4717-453e-9b96-acdc68d8e6f2",
-                "name": "Autonomn\u00ed vozidla",
+                "name": "Autonomní vozidla",
                 "startdate": "2023-11-22T08:40:36.610155",
                 "enddate": "2026-07-29T08:40:36.610160",
                 "valid": true,
                 "projectType": {
                     "id": "c009fed2-6c5-4668-bb60-949dd1b6b3ed",
-                    "name": "TA\u010cR"
+                    "name": "TAČR"
                 },
                 "milestones": [
                     {
@@ -272,13 +211,13 @@
             },
             {
                 "id": "99cf863e-3073-416c-a2c0-0b12b3c56460",
-                "name": "Robotick\u00e1 chirurgie",
+                "name": "Robotická chirurgie",
                 "startdate": "2024-03-21T08:40:36.610201",
                 "enddate": "2026-01-10T08:40:36.610206",
                 "valid": true,
                 "projectType": {
                     "id": "a825d8e1-2e60-4884-afdb-25642db581d8",
-                    "name": "GA\u010cR"
+                    "name": "GAČR"
                 },
                 "milestones": [
                     {
@@ -295,7 +234,7 @@
             },
             {
                 "id": "7ba310fc-8210-43d5-bb17-1bd1a4b0fadf",
-                "name": "Sol\u00e1rn\u00ed panely nov\u00e9 generace",
+                "name": "Solární panely nové generace",
                 "startdate": "2024-04-01T08:40:36.610301",
                 "enddate": "2027-04-01T08:40:36.610305",
                 "valid": true,
@@ -321,7 +260,7 @@
             },
             {
                 "id": "767d221c-0c2c-4415-91d1-e2d74c8c630d",
-                "name": "Vodn\u00ed hospod\u00e1\u0159stv\u00ed",
+                "name": "Vodní hospodářství",
                 "startdate": "2024-05-01T08:40:36.610401",
                 "enddate": "2026-05-01T08:40:36.610405",
                 "valid": true,
@@ -350,7 +289,7 @@
             },
             {
                 "id": "9d64d142-fcc9-4f5c-924b-90ae61a6daee",
-                "name": "Geneticky modifikovan\u00e9 plodiny",
+                "name": "Geneticky modifikované plodiny",
                 "startdate": "2024-06-01T08:40:36.610501",
                 "enddate": "2028-06-01T08:40:36.610505",
                 "valid": true,
@@ -373,7 +312,7 @@
             },
             {
                 "id": "69946f41-1f68-4d97-b86b-4a91c94b911e",
-                "name": "Nanotechnologie v medic\u00edn\u011b",
+                "name": "Nanotechnologie v medicíně",
                 "startdate": "2024-07-01T08:40:36.610601",
                 "enddate": "2029-07-01T08:40:36.610605",
                 "valid": true,
@@ -389,32 +328,6 @@
                 "group": {
                     "id": "3ba7341a-f190-4aeb-a90f-1d727b46ccdf",
                     "name": "BioTech"
-                }
-            },
-            {
-                "id": "dcabb9df-104b-47c3-a4f3-9f514489a427",
-                "name": "Chytr\u00e9 m\u011bsto",
-                "startdate": "2024-08-01T08:40:36.610701",
-                "enddate": "2027-08-01T08:40:36.610705",
-                "valid": false,
-                "projectType": {
-                    "id": "01ed84df-94be-4f40-b64c-ccc4e11c6fef",
-                    "name": "COST"
-                },
-                "milestones": [
-                    {
-                        "id": "364c5bfe-0b30-4d47-983f-732740629417"
-                    },
-                    {
-                        "id": "d34158d7-ccee-4ae2-85e5-a37471f094ee"
-                    },
-                    {
-                        "id": "56a0faae-33e0-48f6-ac0c-643c3d56bfa1"
-                    }
-                ],
-                "group": {
-                    "id": "652936f0-cae0-47f2-b6f0-83c10bd0a363",
-                    "name": "Energy"
                 }
             }
         ]
